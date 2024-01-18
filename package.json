@@ -13,12 +13,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/foxitUi/foxit-ui.git"
+    "url": "git+https://github.com/hang1017/ean-ui.git"
   },
   "bugs": {
-    "url": "https://github.com/foxitUi/foxit-ui/issues"
+    "url": "https://github.com/hang1017/ean-ui/issues"
   },
-  "homepage": "https://github.com/foxitUi/foxit-ui#readme",
+  "homepage": "https://github.com/hang1017/ean-ui#readme",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",

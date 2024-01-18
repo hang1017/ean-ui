@@ -1,5 +1,5 @@
 <template>
-  <div class="ean-ui">123</div>
+  <div class="ean-ui">11123</div>
 </template>
 
 <script>

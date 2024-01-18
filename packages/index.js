@@ -1,8 +1,8 @@
-import testA from './testA'
+import ColorTitle from './ColorTitle'
 import testB from './testB'
 export default {
   install(Vue) {
-    Vue.use(testA);
+    Vue.use(ColorTitle);
     Vue.use(testB);
   },
 }
