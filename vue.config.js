@@ -31,6 +31,7 @@ const DEV_CONFIG = {
       extensions: ['.js', '.vue', '.json'],
       alias: {
         '@': resolve('packages'),
+        'ean-ui': resolve('packages')
       }
     }
   },

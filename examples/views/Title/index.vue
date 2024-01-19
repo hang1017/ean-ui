@@ -1,6 +1,6 @@
 <template>
   <div>
-    <color-title title="123"/>
+    <color-title title="1233"/>
   </div>
 </template>
 
