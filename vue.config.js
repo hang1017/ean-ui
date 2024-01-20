@@ -54,14 +54,14 @@ const DEV_CONFIG = {
 };
 //生成环境配置
 const BUILD_CONFIG = {
-  // css: {
-  //   extract: {
-  //     filename: 'style/[name].css'
-  //   }
-  // },
   css: {
-    extract: false,
+    extract: {
+      filename: 'style/[name].css'
+    }
   },
+  // css: {
+  //   extract: false,
+  // },
   configureWebpack: {
     entry: {
       ...getEntries("packages"),
